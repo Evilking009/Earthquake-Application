@@ -1,0 +1,58 @@
+1. Goto Pub.dev and follow instructions of installation and readme.
+2. In Terminal 'flutter pub add google_maps_flutter'
+3. Import 'package:google_maps_flutter/google_maps_flutter.dart'
+4. Get API key by readme->Google Console-> API -> enable API for android and IOS -> Credentials and then show key. COPY KEY
+5. Goto android/app/src/main/AndroidManifest.xml and copy paste meta-data line(readme tab) to bottom of manifest xml.
+6. Create Folders and go to /flutter_map/simple_google_map/Show_map.dart
+7. Follow at Show_map.dart
+
+Android Manifest? is the one that glues the entire application project together. its the heart of Android app.
+
+FIXING Cache Error!
+Go to C:\Users\Maxx\.gradle\caches and delete caches. Then Go to android\app\src\Build.gradle
+Rename to minSdkVersion 20
+
+Recheck Exception error at 9:00 video Fixing the issues types
+
+
+Link
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson
+
+In order to simplify JSON PODO method
+goto https://javiercbk.github.io/json_to_dart/
+This will Convert all JSON code to Dart PODO as Class Model
+
+Usually in JSON Coordinates are reversed so you need to choose Long as Lat, and vice versa
+
+
+
+  Declare and define Map Controller in future way
+  Future is way to produce future object to complete them in later time
+  with either value or error
+  For handling multiple future objects
+
+
+
+
+// Class file generated from JSON to Dart Link
+// Mapping JSON to Dart Object
+
+// One thing we need to be careful when dealing with dart objects is the type
+// sometimes we need to recieve a certain type as int/double to convert that or make sure that is indeed that type we want
+// for ex if you this X is supposed to be double but its null so dart will have hard time to deal with it.
+// In order to Fix this.. goto types_Helper.dart file in util folder
+
+
+// FromJSON - Converts from JSON to Dart Object
+// toJSON - Vice versa
+
+// Used TypesHelper.to_int() - to forcefully convert any null value to 0, else default value
+// inside Properties.fromJson(){}
+
+// num - has both int and double
+
+// Class with Function input num to check if data is null then 0, else return default value
+// also checks if any error found then print error with return 0
+
+
+
