@@ -22,6 +22,6 @@ The Map application which allows you to view earthquakes on places that happened
 # Technologies
 * Dart
 * Flutter
-* Google Maps API
+* Google Maps
 * Rest API
 
