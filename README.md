@@ -1,15 +1,15 @@
 # Earthquake-Application
-This is a Map application which shows you earthquake on places that happened a weeks ago. This application is built using Flutter, Google Maps and Rest-API
+The Map application which allows you to view earthquakes on places that happened a weeks ago. This application is built using Flutter, Google Maps and Rest-API
 
 # Features
-* Shows earthquake on places a weeks ago by Red Marker
-* Shows Magnitude and details upon clicking red marker
-* Navigates user to website for further details
-* Shows Current location
-* Shows a list of places 
-* Splash Screen
-* Custom App Icon
+* Shows earthquake on places a weeks ago by Red Marker, as well as shows magnitude and details upon clicking red marker
+* Navigates user to website for further details upon clicking details on red marker
 * Can change Map type (satellite, terrain, or plain)
+* Shows Current location
+* Shows a list of places
+* Custom App Icon
+* Splash Screen
+
 
 # Libraries used
 * Google Maps flutter
@@ -24,5 +24,4 @@ This is a Map application which shows you earthquake on places that happened a w
 * Flutter
 * Google Maps API
 * Rest API
-
 
