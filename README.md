@@ -25,8 +25,7 @@ The Map application which allows you to view earthquakes on places that happened
 * Google Maps
 * Rest API
 
-![4](https://user-images.githubusercontent.com/4027728/216525418-0a88da5e-984c-4373-80a3-b4576bb7307a.png)
-![5](https://user-images.githubusercontent.com/4027728/216525423-06c9abdb-8a69-40b8-a0a4-986f85e108d8.png)
-![6](https://user-images.githubusercontent.com/4027728/216525445-c537aa93-9226-4a80-a9ff-0cb2fba6d6b4.png)
-![7](https://user-images.githubusercontent.com/4027728/216525454-bb22a5ce-be6d-44bf-a8ba-1e45fa7ec2d1.png)
-![8](https://user-images.githubusercontent.com/4027728/216525463-cb3b5c9e-761e-48d9-a231-48cf5a4656c3.png)
+# Screenshots
+
+![Untitled design](https://user-images.githubusercontent.com/4027728/216528056-f8df2c87-1633-457e-a546-f409ade6d606.png)
+![Untitled design 2](https://user-images.githubusercontent.com/4027728/216528061-f1b9fb20-eb2c-4751-b5a7-11b3c565246f.png)
